@@ -1,3 +1,5 @@
+![Dashboard Preview](docker-dashboard.png)
+
 # ContainerSH v1.0
 
 A high-performance, terminal-ready Docker management dashboard with a brutalist, mono-spaced aesthetic. Built with React, Express, Socket.io, and Dockerode.

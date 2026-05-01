@@ -1,0 +1,6 @@
+{
+  "name": "Docker Dashboard",
+  "description": "Real-time Docker container management dashboard with audit logging and live log streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
